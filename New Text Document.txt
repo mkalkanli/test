@@ -1,2 +1,3 @@
-ddd
-ggg
+<?php
+// PHP code goes here
+?>
